@@ -89,10 +89,11 @@ The steps involved in implementing the Naive Bayes classifier are as follows:
 
 The project evaluates the performance of the Naive Bayes Classifier in predicting diabetes presence. The evaluation includes metrics such as accuracy, precision, recall, Specificity, balanced_accuracy, and F1-score. The results and their analysis are presented in the `Final_Diabetes_Classification` notebook.
 
-## 📈 Conclusion
-
-In conclusion, this project demonstrates the application of the Naive Bayes Classifier algorithm for diabetes prediction. By training the model on the provided dataset, we can predict the likelihood of diabetes based on the individual's features. The project provides valuable insights into the model's performance and highlights the factors influencing the prediction.
 
 <p align="center">
   <img src="https://github.com/Youssef-Ashraf71/Diabetes-Classifier/assets/83988379/3921b296-15d6-4f6c-8a1f-c9040a2b11b2" alt="Image" />
 </p>
+
+## 📈 Conclusion
+
+In conclusion, this project demonstrates the application of the Naive Bayes Classifier algorithm for diabetes prediction. By training the model on the provided dataset, we can predict the likelihood of diabetes based on the individual's features. The project provides valuable insights into the model's performance and highlights the factors influencing the prediction.
