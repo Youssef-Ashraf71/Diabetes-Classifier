@@ -83,7 +83,7 @@ The steps involved in implementing the Naive Bayes classifier are as follows:
 
 ## 📊 Plots & EDA
 
-- [Click Me](LINK)
+- [Click Me](https://github.com/Youssef-Ashraf71/Diabetes-Classifier/tree/main/plots)
 
 ## 🧾🔎 Results and Discussion
 
