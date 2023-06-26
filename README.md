@@ -97,3 +97,39 @@ The project evaluates the performance of the Naive Bayes Classifier in predictin
 ## 📈 Conclusion
 
 In conclusion, this project demonstrates the application of the Naive Bayes Classifier algorithm for diabetes prediction. By training the model on the provided dataset, we can predict the likelihood of diabetes based on the individual's features. The project provides valuable insights into the model's performance and highlights the factors influencing the prediction.
+
+## Contributors
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Youssef-Ashraf71" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/83988379?v=4" width="150px;" alt="Youssef Ashraf"/>
+    <br />
+    <sub><b>Youssef Ashraf</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/ahmedalii3" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/110257687?v=4" width="150px;" alt="Ahmed Ali"/>
+    <br />
+    <sub><b>Ahmed Ali</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Muhannad159" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/104541242?v=4" width="150px;" alt="Muhannad Abdallah"/>
+    <br />
+    <sub><b>Muhannad Abdallah</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/heshamtamer" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/100705845?v=4" width="150px;" alt="Hesham Tamer"/>
+    <br />
+    <sub><b>Hesham Tamer</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/AliBadran716" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/102072821?v=4" width="150px;" alt="Ali Sherif "/>
+    <br />
+    <sub><b>Ali Sherif </b></sub></a>
+    </td>
+      </tr>
+ </table>
